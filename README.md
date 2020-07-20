@@ -1,6 +1,10 @@
-# Summary
+# Research Proposal- Mental Health in Technology
 
 Exploratory data analysis and experimentation plan to find out if certain working conditions can reduce the loss in productivity caused by mental health issues. 
+
+![banner](Deliverables/output_25_0.png)
+
+## Summary
 
 See the report here: [https://miguelniblock.github.io/Research-Proposal_Mental-Health-in-Tech/Deliverables/index.html](https://miguelniblock.github.io/Research-Proposal_Mental-Health-in-Tech/Deliverables/index.html)
 
